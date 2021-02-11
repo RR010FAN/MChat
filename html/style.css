@@ -1,0 +1,40 @@
+body {
+  color: white;
+  background: black;
+  font-family: "Roboto", sans-serif;
+}
+
+label{
+  width: 5%;
+  display: inline-block;
+  text-align: right;
+}
+
+input {
+  background: #23272A;
+  color: white;
+  font-size: 120%;
+  border: none;
+}
+
+.Message {
+  color: white;
+}
+
+#Chat {
+  color: white;
+}
+
+#ComposedMessage {
+  color: black;
+}
+
+#Main {
+  background-color: #2C2F33;
+  border-radius: 1%;
+  padding-left: 1%;
+}
+
+#Title{
+  font-size: 300%;
+}
